@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mertneredexxx
+- 👀 I’m interested in embedded systems and coding machines such as arduino 
+- 🌱 I’m currently learning c/c++
+- 💞️ I’m looking to collaborate on nothing espacially
+- 📫 How to reach me just email me mert.lol.52@hotmail.com
